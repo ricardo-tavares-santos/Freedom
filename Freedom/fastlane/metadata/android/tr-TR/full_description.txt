@@ -1,0 +1,24 @@
+Orbot
+Tor Proxy
+Freedom başka uygulamaların interneti daha güvenli olarak kullanmasını sağlayan ücretsiz bir proxy uygulamasıdır. Freedom Tor'u kullanarak internet trafiğinizi şifreler ve dünya üzerindeki pek çok farklı bilgisayardan geçirerek gizler. Tor sizin kişisel özgürlüğünüzü ve mahremiyetinizi, gizli ticari aktivitelerinizi ve bağlantılarınızı koruma altına alan bir yazılım ve açık ağdır.
+
+Freedom gerçekten gizli internet bağlantısı kuran tek uygulamadır. New York Times'ın yazdığı gibi “eğer bir mesaj Tor Ağı üzerinden ulaşıyorsa kimden veya nereden geldiğini bilmek mümkün değil”. Tor 2012'de Electronic Frontier Foundation (EFF) Pioneer Award ile ödüllendirilmiştir.
+
+ALTERNATİF KABUL ETMEYİN: Freedom Android sisteminde interneti kullanmanın en güvenli yoludur. Nokta. Freedom doğrudan VPN veya Proxy sunucularına bağlanmaktan farklı olarak şifrelenmiş internet trafiğinizi dünya üzerindeki pek çok başka bilgisayarlardan geçirerek izlenmenizi ve sansürü engeller. Bu yöntem biraz daha zaman alır, ancak en güçlü güvenlik ve gizliliğinizin korunması biraz beklemeye değer.
+İNTERNETTE GİZLİCE DOLAŞIN: Orweb ile birlikte kullanıldığında herhangi bir web sitesi sansürlenmiş, gözetim altında veya gizli internette olsa dahi ulaşmanızı sağlar. Orweb'i şuradan indirebilirsiniz: https://play.google.com/store/apps/details?id=info.guardianproject.browser
+GİZLİ MESAJLAŞIN: Gibberbot ile birlikte kullanıldığında istediğiniz kişiyle istediğiniz yerde ücretsiz mesajlaşın. Gibberbot'u şuradan indirebilirsiniz: https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im
+DİĞER UYGULAMAR İÇİN GİZLİLİK: Kullandığınız bütün uygulamalar proxy özellikleri varsa Tor ağını kullanabilir, şuradaki önerileri takip edin: https://guardianproject.info/apps/orbot/ Freedom'u Twitter uygulaması ile kullanın, ya da gizli web araması yapmak için DuckDuckGo kullanın: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android
+HERKES İÇİN GİZLİLİK: Tor rakip şirket hakkında fark edilmeden araştırma yapmanıza, okuldaki Facebook engellemesini aşmanıza, ya da iş yerinizde spor maçlarını izlemek istediğinizde güvenlik duvarını aşmanıza yardımcı olur.
+GİZLİLİK HİÇ BU KADAR KOLAY OLMAMIŞTI: Eğlenceli ve interaktif kullanım kılavuzumuza şu adresten ulaşabilirsiniz: https://guardianproject.info/howto/browsefreely
+RESMİ UYGULAMA: Freedom Tor onion routing service'in Android'deki resmi uygulamasıdır.
+
+***Uzman Root Modu***
+KAPSAMLI MOD: Freedom zahmetsizce tüm internet trafiğinizin Tor üzerinden yönlenmesini sağlayabilir. Dilerseniz sadece bazı uygulamaların Tor ağını kullanmasını da sağlayabilirsiniz.
+
+***Geri bildirimi seviyoruz***
+HAKKIMIZDA: Guardian Projesi daha iyi bir gelecek için güvenli mobil uygulamalar ve açık kaynak kodları yazan bir grup yazılımcıdan oluşur.
+WEB SİTEMİZ: http://GuardianProject.info
+TWITTER ADRESİMİZ: https://twitter.com/guardianproject
+AÇIK KAYNAK KODU: Freedom ücretsiz bir uygulamadır. Kaynak kodumuza bakabilir, ve geliştirmek için destek grubuna katılabilirsiniz:  https://gitweb.torproject.org/orbot.git
+TOR HAKKINDA: https://TorProject.org
+BİZE YAZIN: İstediğiniz bir özellik eksik mi? Uygulamada bir hata mı buldunuz? Lütfen bize bildirin! Sizden geri bildirim almak bizi çok mutlu eder. Bize e-posta gönderebilirsiniz: root@guardianproject.info 
